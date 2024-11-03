@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/vault_active",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/vault_active"
+    },
+    "facing=south": {
+      "model": "minecraft:block/vault_active",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/vault_active",
+      "y": 270
+    }
+  }
+}
